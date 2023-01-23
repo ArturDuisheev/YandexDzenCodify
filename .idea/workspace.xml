@@ -6,21 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="85dc4a66-024a-4b7e-86e2-efedecfd53f3" name="Changes" comment="DockerCommit">
       <change beforePath="$PROJECT_DIR$/.env.dev" beforeDir="false" afterPath="$PROJECT_DIR$/.env.dev" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env.prod" beforeDir="false" afterPath="$PROJECT_DIR$/.env.prod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env.prod.db" beforeDir="false" afterPath="$PROJECT_DIR$/.env.prod.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.prod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.prod.db" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/account/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/account/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/account/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/entrypoint.prod.sh" beforeDir="false" afterPath="$PROJECT_DIR$/app/entrypoint.prod.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/entrypoint.sh" beforeDir="false" afterPath="$PROJECT_DIR$/app/entrypoint.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/my_proj/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/my_proj/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/post/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/post/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/post/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/post/permissions.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/post/permissions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/post/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/post/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/app/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/my_proj/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/my_proj/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.prod.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nginx/nginx.conf" beforeDir="false" afterPath="$PROJECT_DIR$/nginx/nginx.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +39,9 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/venv/.gitignore" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -54,19 +50,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/thepr/PycharmProjects/YandexDzenn&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/thepr/PycharmProjects/FormsDjango",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\thepr\PycharmProjects\YandexDzenn" />
@@ -86,7 +82,8 @@
       <workItem from="1672138652598" duration="29938000" />
       <workItem from="1673027560092" duration="4000" />
       <workItem from="1673196530652" duration="43027000" />
-      <workItem from="1674054188318" duration="632000" />
+      <workItem from="1674054188318" duration="2810000" />
+      <workItem from="1674239572073" duration="12677000" />
     </task>
     <task id="LOCAL-00001" summary="DockerCommit">
       <created>1672228997055</created>
