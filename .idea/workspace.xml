@@ -8,8 +8,8 @@
       <change beforePath="$PROJECT_DIR$/.env.dev" beforeDir="false" afterPath="$PROJECT_DIR$/.env.dev" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.env.prod" beforeDir="false" afterPath="$PROJECT_DIR$/.env.prod" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/post/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/post/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker-compose.prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.prod.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nginx/nginx.conf" beforeDir="false" afterPath="$PROJECT_DIR$/nginx/nginx.conf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +60,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\thepr\PycharmProjects\YandexDzenn\nginx" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\thepr\PycharmProjects\YandexDzenn" />
       <recent name="C:\Users\thepr\PycharmProjects\YandexDzenn\app" />
@@ -80,7 +83,11 @@
       <workItem from="1673196530652" duration="43027000" />
       <workItem from="1674054188318" duration="2810000" />
       <workItem from="1674239572073" duration="24456000" />
-      <workItem from="1674625903416" duration="12930000" />
+      <workItem from="1674625903416" duration="14775000" />
+      <workItem from="1675104736512" duration="16000" />
+      <workItem from="1675339378942" duration="6016000" />
+      <workItem from="1675791651303" duration="2000" />
+      <workItem from="1676549606681" duration="4966000" />
     </task>
     <task id="LOCAL-00001" summary="DockerCommit">
       <created>1672228997055</created>
